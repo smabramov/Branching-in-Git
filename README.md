@@ -42,9 +42,9 @@
 
 # Ссылки
 
-Ссылка на .md-файл [ссылка]()
+Ссылка на .md-файл [ссылка](https://github.com/smabramov/Branching-in-Git/blob/3decd7a34d37a285468b9000daecae056a7172a4/README.md)
 
-Ссылка на network  [ссылка]()
+Ссылка на network  [ссылка](https://github.com/smabramov/Branching-in-Git/network)
 
 
 
